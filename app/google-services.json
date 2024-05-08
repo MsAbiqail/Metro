@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872579944135",
+    "project_id": "metro-6d532",
+    "storage_bucket": "metro-6d532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872579944135:android:ff2b7deca0726ee61e78e2",
+        "android_client_info": {
+          "package_name": "com.abby.metro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHm7sxLHIWfrVIWmkF4qIQdZpwD8Gtec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
